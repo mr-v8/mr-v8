@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Mr. V&#39;s Blog</title>
-    <link>http://example.org/tags/blog/</link>
+    <link>https://mr-v8.github.io/tags/blog/</link>
     <description>Recent content in blog on Mr. V&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mr-v8.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bootstrap</title>
-      <link>http://example.org/post/2020-04-09-bootstrap/</link>
+      <link>https://mr-v8.github.io/post/2020-04-09-bootstrap/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2020-04-09-bootstrap/</guid>
+      <guid>https://mr-v8.github.io/post/2020-04-09-bootstrap/</guid>
       <description>Ok, let&amp;rsquo;s start! It is some time now since I first though to start a blog, but I always posponed it. I was not sure about the topic to focus on, and more in general I always found some excuse to push back. Now, with the COVID-19 pandemic situation and the constrinction to spend so much time at home with myself I decided that there are no more excuses that holds.</description>
     </item>
     
